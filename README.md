@@ -37,7 +37,7 @@ This folder contains 8 assignments completed as part of the course, covering var
 
 #### Games
 - **Description:** A project that includes the development of multiple simple games using Java.
-- **Technologies Used:** Java
+- **Technologies Used:** Java, Design Patterns
 - **Challenges:** Playing around Object Oriented Programming through Design Patterns.
 
 ---
@@ -74,12 +74,3 @@ The Bitcoin Transactions Dashboard is a web application built using Streamlit th
   - networkx for graph analysis
   - bcrypt for password hashing
   - python-dotenv for environment variable management
-
-## Installation
-
-To run the Bitcoin Transactions Dashboard locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/kirthim-95/MSCS-Projects.git
-   cd MSCS-Projects/CS5200-DatabaseManagementSystems/Bitcoin-Transactions-Dashboard
